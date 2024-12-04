@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hamed Esam**
 
-- Twitter: [@Hamed__Esam](https://twitter.com/Hamed__Esam)
+- Twitter: [@hamedesam_dev](https://x.com/hamedesam_dev)
 - Website: [albashmoparmeg.com](https://albashmoparmeg.com)
 - GitHub: [@Hamed233](https://github.com/Hamed233)
 
