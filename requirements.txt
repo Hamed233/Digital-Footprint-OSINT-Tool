@@ -1,0 +1,10 @@
+requests==2.31.0
+beautifulsoup4>=4.11.1
+colorama==0.4.6
+googlesearch-python==1.2.3
+phonenumbers==8.13.32
+python-whois==0.8.0
+tqdm==4.66.1
+pwnedpasswords==2.0.0
+selenium==4.18.1
+fake-useragent==1.4.0
