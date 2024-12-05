@@ -50,7 +50,7 @@ The authors assume no liability for misuse or any damages arising from the use o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/digital-footprint.git
+git clone https://github.com/yourusername/Digital-Footprint-OSINT-Tool.git
 cd digital-footprint
 ```
 
